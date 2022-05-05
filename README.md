@@ -12,7 +12,7 @@ display: flex;
 > Torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em `flex-items`.
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  * [Foto da tela](#foto-da-tela) -->
@@ -24,7 +24,7 @@ display: flex;
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
