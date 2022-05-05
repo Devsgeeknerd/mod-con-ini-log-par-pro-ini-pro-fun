@@ -3,7 +3,13 @@
 
 ***Conteúdo da Aula:***
 
-Define o elemento como um flex container, tornando os seus filhos *flex-itens*.
+Define o elemento como um flex container, tornando os seus filhos `flex-items`.
+
+```css
+display: flex;
+```
+
+> Torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em `flex-items`.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
