@@ -1,7 +1,9 @@
 <!-- TITLE -->
 # Display
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo da Aula:***
+
+Define o elemento como um flex container, tornando os seus filhos *flex-itens*.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
