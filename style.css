@@ -16,4 +16,6 @@ h1 {
     border: 1px solid #ccc;
 }
 
-.item {}
+.item {
+    background-color: #ff6347;
+}
