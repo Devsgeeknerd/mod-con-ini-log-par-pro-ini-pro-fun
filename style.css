@@ -23,8 +23,12 @@ h1 {
     text-align: center;
 }
 
+.flex {}
+
 .flex-item-1 {
     flex: 1;
 }
 
-.flex-wrap {}
+.flex-wrap {
+    flex-wrap: wrap;
+}
