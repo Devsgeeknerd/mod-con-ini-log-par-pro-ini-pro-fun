@@ -23,7 +23,9 @@ h1 {
     text-align: center;
 }
 
-.flex {}
+.flex {
+    display: flex;
+}
 
 .flex-item-1 {
     flex: 1;
