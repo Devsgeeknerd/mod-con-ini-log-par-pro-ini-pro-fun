@@ -1,74 +1,25 @@
-<!-- TITLE -->
-# Display
+<!-- Título -->
+# Conceitos Iniciais
 
-***Conteúdo da Aula:***
+***Conteúdo do Módulo:***
 
-Define o elemento como um flex container, tornando os seus filhos `flex-items`.
+* [ ] [O Que é um Computador?](https://github.com/Devsgeeknerd/cla-o-que-com-con-ini-log-par-pro-ini-pro-bas) &#128679;
+* [ ] [O Que é Lógica Para Programação e Algoritmo.](https://github.com/Devsgeeknerd/cla-o-que-log-par-pro-alg-con-ini-log-par-pro-ini-pro-bas) &#128679;
+* [ ] [Quais as Formas de Representar um Algoritmo?](https:///github.com/cla-qua-for-rep-alg-con-ini-log-par-pro-ini-pro-bas) &#128679;
 
-```css
-display: flex;
-```
+<!-- Informações -->
+## &#8505; Informações
 
-> Torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em `flex-items`.
-
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
-
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Construído com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recursos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
-
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUÍDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-dis-fle-con-fle-box&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-con-ini-log-par-pro-ini-pro-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-dis-fle-con-fle-box?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-con-ini-log-par-pro-ini-pro-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-dis-fle-con-fle-box?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-con-ini-log-par-pro-ini-pro-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-dis-fle-con-fle-box?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-con-ini-log-par-pro-ini-pro-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-dis-fle-con-fle-box?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-con-ini-log-par-pro-ini-pro-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/cla-dis-fle-con-fle-box?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-con-ini-log-par-pro-ini-pro-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
